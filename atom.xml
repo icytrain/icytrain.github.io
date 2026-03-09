@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>raincity</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://icytrain.github.io/</id>
+  <link href="https://icytrain.github.io/" rel="alternate"/>
+  <link href="https://icytrain.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, raincity</rights>
+  <title>raincity 的博客</title>
+  <updated>2026-03-09T11:22:18.460Z</updated>
+  <entry>
+    <author>
+      <name>raincity</name>
+    </author>
+    <id>https://icytrain.github.io/2026/03/09/hello-world/</id>
+    <link href="https://icytrain.github.io/2026/03/09/hello-world/"/>
+    <published>2026-03-09T10:08:50.824Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-03-09T11:22:18.460Z</updated>
+  </entry>
+</feed>
